@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=6
+
 primes = [1,2]
 num = 3
 while primes.size <= 10001

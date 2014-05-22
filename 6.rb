@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=6
+
 num = 100
 sumsq = 0
 sqsum = 0
