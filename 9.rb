@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=9
+
 s = 1000
 found = false
 
