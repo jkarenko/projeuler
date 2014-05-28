@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=6
+# https://projecteuler.net/problem=7
 
 primes = [1,2]
 num = 3
