@@ -103,7 +103,7 @@ numbers =
 53503534226472524250874054075591789781264330331690"""
 
 num_array = []
-numbers.split("\n").each { |num| num_array << num.to_i }
+numbers.split("\n").each { |num| num_array << num[0..10].to_i }
 
 sum = num_array.reduce(0) do |sum, value|
 	sum + value
