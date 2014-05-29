@@ -1,4 +1,5 @@
 # https://projecteuler.net/problem=12
+# this is a really shitty solution and takes my i7 prosessor almost 6 hours to complete
 
 divisors = []
 n = 1
